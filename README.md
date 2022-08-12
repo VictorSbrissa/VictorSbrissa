@@ -1,5 +1,4 @@
 <h1 align="middle">Hi 👋 I'm Victor Sbrissa</h1>
-<img align="middle" WIDTH="700" HEIGHT="200" src="https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif">
 <h3 align="middle">A passionate ServiceNow developer from Brazil!!</h3>
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b761109bcf2d1c119b281aa4f6b65ea6e5e2074a56d47&rid=giphy.gif&ct=g">
 
