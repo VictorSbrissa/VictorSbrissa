@@ -2,7 +2,7 @@
 <h3 align="middle">A passionate ServiceNow developer from Brazil!!</h3>
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b761109bcf2d1c119b281aa4f6b65ea6e5e2074a56d47&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **HTTP, CSS, JScript, Angular and Node.JS**
+- 🌱 I’m currently learning **HTTP, CSS, TypeScript, Angular**
 
 - 📫 How to reach me **www.linkedin.com/in/victor-sbrissa**
 
