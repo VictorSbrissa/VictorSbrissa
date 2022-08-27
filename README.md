@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/victor-sbrissa**
 
-<h3 align="left">Connect with me!!</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 </p>
 
