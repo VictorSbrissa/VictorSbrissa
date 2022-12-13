@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Angular, HTTP, CSS, TypeScript, JavaScript**
 
-- 📫 How to reach me **www.linkedin.com/in/victor-sbrissa**
+- 📫 How to reach me: **www.linkedin.com/in/victor-sbrissa**
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
