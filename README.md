@@ -1,6 +1,6 @@
 
 
-<h1 align="middle">Hi 👋 I'm Victor Sbrissa!!</h1>
+<h1 align="middle">Hi 👋 I'm Victor Sbrissa!</h1>
 <h3 align="middle">Software Engineer from Brazil </h3>
 <img align="right" alt="coding" width="390" src="https://media1.tenor.com/m/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif">
 
