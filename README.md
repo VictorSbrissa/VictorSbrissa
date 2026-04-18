@@ -20,11 +20,48 @@ Development and support in Dynamics365 - CSM Module:
 
 <h2 align="middle">Connect with me! www.linkedin.com/in/victor-sbrissa</h2>
 <h2 align="middle">Languages and Tools:</h2>
-<h1>
-<p align="middle"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://adoption.microsoft.com/wp-content/uploads/2022/05/icon-dynamics-365.png" alt="javascript" width="40" height="40"/> </a><a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/net-framework.png" alt="javascript" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/servicenow_logo_icon_168835.png" alt="javascript" width="40" height="40"/> </a><a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/net-framework.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PRJTR3X73uIJXpqD-Nkj4T0SKaEEL2aReA&s" alt="photoshop" width="40" height="40"/> 
+<h1 align="middle" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">
+    <img src="https://img.icons8.com/color/512/net-framework.png" width="40" />
+  </a>
+
+  <a href="#">
+    <img src="https://images.icon-icons.com/2699/PNG/512/servicenow_logo_icon_168835.png" width="40" />
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dynamics365-color.svg/960px-Dynamics365-color.svg.png" width="40" />
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/3840px-Microsoft_Power_Platform_logo.svg.png" width="40" />
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Powerapps-logo.svg/1280px-Powerapps-logo.svg.png" width="40" />
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Microsoft_Power_Automate_%282025-present%29.svg/1280px-Microsoft_Power_Automate_%282025-present%29.svg.png" width="40" />
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  </a>
+  
 </h1>
-<p align="middle">
-</p>
 
 <p align="center">
   <img 
