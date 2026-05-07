@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Victor Sbrissa!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+.NET+Specialist;Dynamics+365+%26+ServiceNow;Building+Micro+SaaS+Solutions;Backend+%26+Integrations+Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+.NET+JS;Dynamics+365+%26+ServiceNow;Building+Micro+SaaS+Solutions;Backend+%26+Integrations+Focus" />
 </p>
 <img align="right" alt="coding" width="390" src="https://media1.tenor.com/m/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif">
 
