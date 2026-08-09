@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Victor Sbrissa!!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+.NET+JS;Dynamics+365+%26+ServiceNow;Building+Micro+SaaS+Solutions;Backend+%26+Integrations+Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Dynamics+365+%26+ServiceNow+%26+SalesForce;Building+SaaS+Solutions;" />
 </p>
 <img align="right" alt="coding" width="390" src="https://media1.tenor.com/m/pv2oZ5a5HCIAAAAC/cyberpunk2077-edgerunners.gif">
 
@@ -30,16 +30,16 @@ Development and support in Dynamics365 - CSM Module:
     <img src="https://img.icons8.com/color/512/net-framework.png" width="40" />
   </a>
 
-  <a href="#">
-    <img src="https://images.icon-icons.com/2699/PNG/512/servicenow_logo_icon_168835.png" width="40" />
-  </a>
-
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  </a>
+
+  <a href="#">
+    <img src="https://images.icon-icons.com/2699/PNG/512/servicenow_logo_icon_168835.png" width="40" />
   </a>
 
   <a href="" target="_blank">
@@ -58,6 +58,10 @@ Development and support in Dynamics365 - CSM Module:
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Microsoft_Power_Automate_%282025-present%29.svg/1280px-Microsoft_Power_Automate_%282025-present%29.svg.png" width="40" />
   </a>
 
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" width="55" />
+  </a>
+
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
   </a>
@@ -71,11 +75,6 @@ Development and support in Dynamics365 - CSM Module:
     width="97%"
     alt="cyberpunk banner"
   />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=VictorSbrissa&show_icons=true&theme=tokyonight"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSbrissa&layout=compact&theme=tokyonight"/>
 </p>
 
 
